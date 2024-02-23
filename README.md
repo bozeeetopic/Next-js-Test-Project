@@ -1,2 +1,2 @@
-# GenerationsGallery
-Web app that combines a family tree with photo album
+# Test project for learning next.js
+Updating knowledge
